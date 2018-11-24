@@ -32,7 +32,7 @@ end
   gem 'spring'
 
   group :develepment, :test do
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.13'
 end
 
 group :production do
